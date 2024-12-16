@@ -1,0 +1,31 @@
+{
+    "leverage_start": 1,
+    "leverage_stop": 125,
+
+    "username": "62BE-B549-92CB-7F01-CE23-E050-AA2D-8F7C-451A-6A42-2DE2-641B-71CB-74FF-C81D-AE8E",
+    "password": "9D3D-E326-9360-F67E-9987-C1BE-1FB1-8188-4482-1BD8-D4BC-8EAA-79D6-CA93-81DD-FD1D",
+
+    "trading_pairs": ["BTC/USDT", "ETH/USDT", "NEAR/USDT"],
+    "margin_type": ["ISOLATED", "CROSSED"],
+
+    "trade_amount_usdt": [100],
+
+    "max_daily_trades_start": 1,
+    "max_daily_trades_stop": 100,
+
+    "timeframe": ["1m",
+                "3m", 
+                "5m", 
+                "15m",
+                "30m",
+                "1h"
+                ,"2h"
+                ,"4h"
+                ,"6h"
+                ,"8h"
+                ,"12h"
+                ,"1d"
+                ,"3d"
+                ,"1w"
+                ,"1"]
+}
